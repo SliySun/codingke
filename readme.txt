@@ -1,2 +1,1 @@
-git init…
-sun
+good study,day up
